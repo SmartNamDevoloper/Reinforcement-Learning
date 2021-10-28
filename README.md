@@ -53,7 +53,7 @@ These files can be run and the trades will be executed. The trades can be witnes
   
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1Ntv-KhmGbUVd3OHi9CG4mij8f9HHX-DU/view?usp=sharing)
+![App Screenshot](https://github.com/SmartNamDevoloper/Reinforcement-Learning/blob/main/Screenshot.png)
 
 
 
