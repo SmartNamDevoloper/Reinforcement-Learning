@@ -8,8 +8,8 @@ The main objective of this project was to build a Forex trading Bot. This projec
 ### From repository
 
 ```
-git clone https://github.com/Averyxtech/RL-forex-trader.git
-cd RL-forex-trader/Forex_RL/
+git clone https://github.com/SmartNamDevoloper/Reinforcement-Learning.git
+cd Reinforcement-Learning/Forex_RL/
 ```
 #### Create virtual environment 
 Use python version 3.7
